@@ -1,0 +1,43 @@
+Pradeep Fernando
+PhD Student
+School of Computer Science
+College of Computing
+Georgia Tech
+
+
+github
+My Blog
+LinkedIn
+
+
+About Me
+
+I am a first year PhD student working under the guidance of Prof. Karsten Schwan. My interested research areas include Operating systems
+paricularly the memory and file subsystems. I obtained my Bachelors degree in computer science and engineering from the university
+of Moratuwa, Sri Lanka. Prior joining Georgia Tech, I had a ~4 year stint at WSO2 Inc. as a programmer.
+
+
+
+Contacts
+
+pradeepfn@gatech.edu
+Room 3201,
+Klaus Advanced Computing Building
+Atlanta GA.
+
+
+Research Interests
+
+Operating Systems, Distributed Systems
+
+
+Publications
+
+Improved Server Architecture for Highly Efficient Message Mediation.
+Hiranya Jayathilaka, Pradeep Fernando, Paul Fremantle, Kasun Indrasiri, Dushan Abeyruwan, Supun Kamburugamuve, Sadeep Jayasumana, Sanjiva Weerawarana, and Srinath Perera.
+In Proceedings of International Conference on Information Integration and Web-based Applications & Services (IIWAS '13). ACM, New York, NY, USA.
+
+BISSA: Empowering web gadget communication with tuple spaces
+Wickramasinghe, U.; Wickramarachchi, C.; Fernando, P.; Sumanasena, D.; Perera, S.; Weerawarana, S., Gateway Computing Environments Workshop (GCE), Nov. 2010
+
+
