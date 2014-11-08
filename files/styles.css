@@ -9,12 +9,32 @@
 
 #footer{
 	height:20px;
-	background-color:grey;
+	background-color:#5CB8E6;
 	text-align:right
 }
 
 h2{
-	color:orange;
+	color:#CC5200;
+}
+
+img{
+	width:200px;
+	height:200px;
+	padding: 40px 20px 40px 80px;
+}
+
+.wrap {
+    width: 100%;
+}
+
+.floatleft {
+    float:left; 
+    width: 70%;
+}
+
+.floatright {
+float: right;
+    width: 30%;
 }
 
 
